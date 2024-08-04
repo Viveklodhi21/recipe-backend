@@ -3,4 +3,6 @@
 3. Run npm i
 4. Run npm start
 
-the localhost will be stared on localhost:3000
+The localhost will be stared on localhost:3000
+
+note: you might have to change SPOONACULAR_API_KEY in env if data is not visible
